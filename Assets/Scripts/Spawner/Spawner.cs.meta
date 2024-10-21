@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: baf4aac8e8590f24e90629f061320da2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bigRobotPrefab: {instanceID: 0}
+  - smallThingyPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
